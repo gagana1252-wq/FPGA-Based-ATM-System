@@ -112,28 +112,6 @@ The concepts implemented in this project can be applied in:
 
 ---
 
-## Project Structure
-FPGA-ATM-System
-│
-├── README.md
-│
-├── src
-│   └── atm_system.v
-│
-├── testbench
-│   └── atm_system_tb.v
-│
-├── simulation
-│   └── waveform_results.png
-│
-├── diagrams
-│   └── block_diagram.png
-│
-└── report
-    └── FPGA_ATM_Project_Report.pdf
-
----
-
 ## Future Enhancements
 The project can be extended by implementing:
 
